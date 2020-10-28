@@ -31,7 +31,11 @@ Goal:- The classification goal is to predict if the client will subscribe (yes/n
 
 ### Features
 
+![test1](https://user-images.githubusercontent.com/64673748/97472931-65ce9100-1970-11eb-8741-8342bf00f3eb.png)
+
 ### Target variable (desired output):
+
+![test2](https://user-images.githubusercontent.com/64673748/97472953-69faae80-1970-11eb-91ec-d2d629d22972.png)
 
 ### Categorical and Numeric Data
 #### Categorical Data
