@@ -45,3 +45,8 @@ For example, gender is a categorical data because it can be categorized into mal
 
 #### Numeric Data
 Numerical data is a type of data that is expressed in terms of numbers rather than natural language descriptions. Ex: Person's height, weight, IQ etc.
+
+
+### The folder 'Data' contains the dataset used, and the folder 'Notebook' contains both the file related to the Explonatory Data Analysis(EDA) and the ML Model used.
+
+Any queries regarding the project?? drop a mail to - revnth@outlook.com
